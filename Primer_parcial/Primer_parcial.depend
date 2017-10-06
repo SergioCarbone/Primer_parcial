@@ -1,5 +1,60 @@
 # depslib dependency file v1.0
-1446667744 source:d:\primer_parcial\primer_parcial\main.c
+1507248638 source:d:\primer_parcial\primer_parcial\main.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
+	"pantalla.h"
+	"contrataciones.h"
+	"validar.h"
+	"informes.h"
+
+1507248382 source:d:\primer_parcial\primer_parcial\contrataciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantalla.h"
+	"contrataciones.h"
+	"validar.h"
+	"informes.h"
+
+1507244282 d:\primer_parcial\primer_parcial\pantalla.h
+
+1507248638 d:\primer_parcial\primer_parcial\contrataciones.h
+
+1507246907 d:\primer_parcial\primer_parcial\validar.h
+
+1507241123 d:\primer_parcial\primer_parcial\informes.h
+
+1507241692 source:d:\primer_parcial\primer_parcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantalla.h"
+	"contrataciones.h"
+	"validar.h"
+	"informes.h"
+
+1507244282 source:d:\primer_parcial\primer_parcial\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantalla.h"
+	"contrataciones.h"
+	"validar.h"
+	"informes.h"
+	<stdlib.h>
+	<string.h>
+	"pantalla.h"
+	"contrataciones.h"
+	"validar.h"
+	"informes.h"
+
+1507246182 source:d:\primer_parcial\primer_parcial\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantalla.h"
+	"contrataciones.h"
+	"validar.h"
+	"informes.h"
 
